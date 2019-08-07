@@ -1,2 +1,2 @@
 # Hello World
-[AWS](00-init-aws/aws.md)
+[AWS](00-init-aws/index.md)
