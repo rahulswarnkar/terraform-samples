@@ -7,5 +7,5 @@ title: Hello Terraform!
 ## Table Of Contents
 
 {% for page in site.pages %}
-* [{{ page.title }}]({{ site.url }}{{ page.url }})
+* [{{ page.title }}]({{ page.url }})
 {% endfor %}
