@@ -1,5 +1,5 @@
 ---
-title: AWS
+title: Hello Terraform
 ---
 # Hello World!
 [AWS](00-init-aws/index.md)
