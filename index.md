@@ -1,6 +1,6 @@
 ---
 title: AWS
 ---
-# Hello World
+# Hello World!
 [AWS](00-init-aws/index.md)
 {{ title }}
