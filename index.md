@@ -1,7 +1,11 @@
 ---
-title: Hello Terraform
+title: Hello Terraform!
 ---
-# Hello World!
+# {{ page.title }}
 [AWS](00-init-aws/index.md)
 
-{{ page.title }}
+## Table Of Contents
+
+{% for page in site.pages %}
+* [{{ page.title }}]({{ page.url }})
+{% endfor %}
